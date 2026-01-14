@@ -1,1 +1,1 @@
-[{"username":"lozano","passwordHash":"13dec6628408d9944895b7d7fd1b06fdf12cfd6a33e5aa610d73007d7acf2328"},{"username":"admin","passwordHash":"15e2b0d3c33891ebb0f1ef609ec419420c20e320ce94c65fbc8c3312448eb225"}]
+[{"username":"lozano","passwordHash":"13dec6628408d9944895b7d7fd1b06fdf12cfd6a33e5aa610d73007d7acf2328","deviceId":null},{"username":"admin","passwordHash":"15e2b0d3c33891ebb0f1ef609ec419420c20e320ce94c65fbc8c3312448eb225","deviceId":null},{"username":"user","passwordHash":"c775e7b757ede630cd0aa1113bd102661ab38829ca52a6422ab782862f268646","deviceId":"TP1A.220624.014"}]
